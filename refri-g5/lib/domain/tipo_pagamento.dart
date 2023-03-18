@@ -1,0 +1,4 @@
+enum TipoPagamento {
+  nota,
+  moeda,
+}

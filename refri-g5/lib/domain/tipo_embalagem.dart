@@ -1,0 +1,4 @@
+enum TipoEmbalagem {
+  lata,
+  garrafa,
+}
