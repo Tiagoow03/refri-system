@@ -1,2 +1,2 @@
 # Máquina de Refrigerante
-> Projeto desenvolvido para iniciação nos estudos com Flutter e Dart
+> Uma aplicação baseada nas funcionalidades de uma "máquina de refrigerantes"
